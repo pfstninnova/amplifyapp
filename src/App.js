@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        	<h1>Saludos - Regards</h1>
-       
+      <a href="https://www.perfilstone.com" className="App-link">
+      	<img src={logo} className="App-logo" alt="go to Perfilstone Innova" />
+         	<h1>Saludos - Regards</h1>
+      </a>
       </header>
     </div>
   );
