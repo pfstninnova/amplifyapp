@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './aplicaciones realidad virtual.gif';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        	<h1>Saludos -Regards</h1>
+        	<h1>Saludos - Regards</h1>
        
       </header>
     </div>
